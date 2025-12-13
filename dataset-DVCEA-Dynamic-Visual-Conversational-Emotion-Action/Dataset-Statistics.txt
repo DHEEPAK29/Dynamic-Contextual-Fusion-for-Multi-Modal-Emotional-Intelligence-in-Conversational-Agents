@@ -1,0 +1,5 @@
+Metric Count
+Total Dialogue Scenes 1,038
+Total Individual Utterances 9,989
+Source Material MELD (Friends)
+Data Formats .npy (Embeddings)
