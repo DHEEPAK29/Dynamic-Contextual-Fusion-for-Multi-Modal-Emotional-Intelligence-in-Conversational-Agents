@@ -15,6 +15,13 @@ This project presents the **Dynamic Contextual Emotional Transformer (DCET)**, a
 
 <img width="12301" height="4660" alt="image" src="https://github.com/user-attachments/assets/89c755ae-4506-43c1-821f-b3bacef68c8c" />  
 
+
+### Fine Tuning Benchmark (Recent)
+
+<img width="1000" height="800" alt="image" src="https://github.com/user-attachments/assets/5caa4bef-b360-46b1-9a35-653034b91ee7" />
+<img width="1053" height="29" alt="image" src="https://github.com/user-attachments/assets/40e2a60e-8cb7-4da5-9de8-bf93c676940d" />
+<img width="1060" height="633" alt="image" src="https://github.com/user-attachments/assets/14b09165-629e-45df-9e32-b7e585da2406" />
+
 ## 3. Architecture Overview (DCET Pipeline)
 
 The DCET framework operates in a multi-stage fashion, both during training and real-time inference:  
